@@ -45,3 +45,6 @@ alembic upgrade head
 uvicorn app.main:app --reload
 http://127.0.0.1:8000/docs
 ```
+
+## Testing With Postman
+https://amitkumardeo95-423999.postman.co/workspace/Amit-Kumar's-Workspace~ccfdbe50-f96d-4422-885f-c5b0607a79cd/request/47426963-d218ed14-a7f6-453c-bb3e-1289f9109e5d?action=share&source=copy-link&creator=47426963
